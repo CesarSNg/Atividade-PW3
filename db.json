@@ -1,5 +1,5 @@
 {
-  "Personagens":[
+  "Produtos":[
     {
       "id":1,
       "nome": "Chaves",
@@ -24,57 +24,5 @@
       "nomereal":"Ramón Valdés",
       "idade":"48"
     }
-  ],
-  "Narradores":[
-    {
-      "id": 5,
-      "nome": "María Antonieta de Las Nieves",
-      "ano": "(1973)",
-      "tema de abertura": "The Elephant Never Forgets"
-    },
-    {
-      "id": 6,
-      "nome": "Florinda Meza",
-      "ano": "(1973 – 74)",
-      "tema de abertura": "The Elephant Never Forgets"
-    },
-    {
-      "id": 7,
-      "nome": "Jorge Gutiérrez Zamora",
-      "ano": "(1973/74 – 79)",
-      "tema de abertura": "The Elephant Never Forgets"
-    },
-    {
-      "id": 8,
-      "nome": "Rubén Aguirre",
-      "ano": "(1979 – 80)",
-      "tema de abertura": "The Elephant Never Forgets"
-    }  
-  ],
-  "Premios":[
-    {
-      "id": 9,
-      "ano": "1973",
-      "categoria": "Melhor Programa Humorístico",
-      "prêmio": "El Heraldo de México"
-    },
-    {
-      "id": 10,
-      "ano": "1997",
-      "categoria": "Conjunto da Obra",
-      "prêmio": "Mexican Cinema Journalists Awards (Special Silver Goddess)"
-    },
-    {
-      "id": 11,
-      "ano": "2004",
-      "categoria": "Melhor Programa de Entretenimento em Televisão",
-      "prêmio": "Premio Qualitas de la Asociación a Favor de lo Mejor"
-    },
-    {
-      "id": 12,
-      "ano": "2007",
-      "categoria": "Melhor Conteúdo de Televisão",
-      "prêmio": "Principios"
-    }  
   ]
 }
