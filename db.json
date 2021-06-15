@@ -2,27 +2,59 @@
   "Produtos":[
     {
       "id":1,
-      "nome": "Chaves",
-      "nomereal":"Roberto Gómez",
-      "idade":"12"
+      "descricao": "Tenis Nike Air Max 97",
+      "quantidade":"1",
+      "valorunitario":"800",
+      "dataentrada": "14/06/2021",
+      "imagem": ""
     },
     {
       "id":2,
-      "nome": "Quico",
-      "nomereal":"Carlos Villagrán",
-      "idade":"13"
+      "descricao": "Meia Reebook",
+      "quantidade":"1",
+      "valorunitario":"40",
+      "dataentrada": "14/06/2021",
+      "imagem": ""
+    },
+    {
+      "id":2,
+      "descricao": "Calça Jeans",
+      "quantidade":"1",
+      "valorunitario":"200",
+      "dataentrada": "14/06/2021",
+      "imagem": ""
     },
     {
       "id":3,
-      "nome": "Chiquinha",
-      "nomereal":"Maria Antonieta",
-      "idade":"11"
+      "descricao": "Cueca Calvin Klein",
+      "quantidade":"01",
+      "valorunitario":"80",
+      "dataentrada": "14/06/2021",
+      "imagem": ""
     },
     {
       "id":4,
-      "nome": "Seu Madruga",
-      "nomereal":"Ramón Valdés",
-      "idade":"48"
+      "descricao": "Polo Lacoste",
+      "quantidade":"01",
+      "valorunitario":"200",
+      "dataentrada": "14/06/2021",
+      "imagem": ""
+    },
+    {
+      "id":4,
+      "descricao": "Corrente de prata Versace",
+      "quantidade":"01",
+      "valorunitario":"500",
+      "dataentrada": "14/06/2021",
+      "imagem": ""
+    },
+    {
+      "id":5,
+      "descricao": "Boné Lacoste Sport",
+      "quantidade":"01",
+      "valorunitario":"150",
+      "dataentrada": "14/06/2021",
+      "imagem": ""
     }
   ]
 }
